@@ -15,7 +15,7 @@
 	{
 		"silverstripe/framework": ">=3.1,<4.0",
 		"silverstripe/cms": ">=3.1,<4.0",
-		"swipestripe/swipestripe": "dev-gallery"
+		"swipestripe/swipestripe": ">=2.1"
 	},
 	"support": 
 	{
